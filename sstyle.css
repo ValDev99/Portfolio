@@ -365,10 +365,10 @@ hr {
 /* FIN MES EXPS  */
 
 /* MES PROJETS  */
-#partFour .carousel-caption{
+#partThree .carousel-caption{
   height: 100px;
 }
-#partFour h5{
+#partThree h5{
   background-color: #1e1f26;
   color: #faebd7;
   height: 90px;
@@ -376,7 +376,7 @@ hr {
   border: 10px solid #03dac6;
   border-radius: 50px;
 }
-#partFour .carousel-control-next, .carousel-control-next-icon{
+#partThree .carousel-control-next, .carousel-control-next-icon{
   font-weight: 900;
 }
 
